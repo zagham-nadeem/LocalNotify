@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="title_activity_main">Notify</string>
+    <string name="package_name">com.Notify</string>
+    <string name="custom_url_scheme">com.Notify</string>
+</resources>

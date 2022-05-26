@@ -1,5 +1,7 @@
 {
   "name": "Notify",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
